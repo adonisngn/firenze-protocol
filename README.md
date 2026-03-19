@@ -1,6 +1,6 @@
 # The Firenze Protocol
 
-Computational Archaeology toolkit built on a Celeron N3050, 4GB RAM.
+Computational Archaeology toolkit.
 Tools for ancient script restoration, language drift analysis, and migration simulation.
 
 ## Stack
