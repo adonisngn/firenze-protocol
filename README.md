@@ -14,3 +14,4 @@ Tools for ancient script restoration, language drift analysis, and migration sim
 - [ ] Project 02: Bantu/Romance Language Drift
 - [ ] Project 03: Physics-based Migration Simulator
 # restored Sat Apr  4 06:56:57 AM WAT 2026
+# restored Sat Apr  4 07:02:04 AM WAT 2026
